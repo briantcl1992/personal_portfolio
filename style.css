@@ -3,6 +3,8 @@
 }
 .navbar {
     border-bottom: 1px solid #ddd;
+    padding-right: 0px;
+    padding-left: 0px;
 }
 .nav-link i {
     font-size:24px;
