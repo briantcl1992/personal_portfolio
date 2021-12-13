@@ -1,0 +1,9 @@
+.nav-link {
+    color:black !important;
+}
+.navbar {
+    border-bottom: 1px solid #ddd;
+}
+.nav-link i {
+    font-size:24px;
+}
